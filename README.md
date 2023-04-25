@@ -10,7 +10,7 @@ Live Deployed Url : https://todolist56.netlify.app/
 
 At first you need to run
 
-### `npm start`
+### `npm install`
 
 In the project directory, you can run:
 
